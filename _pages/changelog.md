@@ -1,65 +1,147 @@
 ---
 layout: page
-title: What's New
+title: 更新日志
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# 版本记录
 
-<br>
+### 0.8.0 - 2023年5月1日
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+- 多设备间的 Token 同步现在更稳定了
+- 用户体验、稳定性优化
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### 0.7.8 - 2023年4月27日
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- 代理模式下也可以使用 Token 啦
+- UI 问题修复
 
-<br>
+### 0.7.7 - 2023年4月25日
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 新增角色页面，可以直接选择一个角色开始聊天
+- Mac 版支持快捷键：ctrl+回车（发送）；cmd+shift+N（新建对话）；cmd+，（设置页面）
+- 点击「恢复购买」可以恢复已购 Token
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### 0.7.3 - 2023年4月18日
 
-<br>
+- 新增 Prompt 进阶教程
+- 修复其他细节问题，建议及时更新以获得最佳使用体验
 
-________
-<br>
+### 0.7.0 - 2023年4月17日
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+- 性能优化
+- 修复输入框粘贴入大段文字卡死问题
+- 支持选中多个对话导出成图片
+- 修复其他细节问题，建议及时更新以获得最佳使用体验
 
-<br>
+### 0.6.5 - 2023年4月16日
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 性能优化
+- 修复一些细节问题
+- 建议及时更新以获得最佳使用体验
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### 0.6.0 - 2023年4月13日
 
-<br>
+- 新增导出对话列表成长图
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+### 0.5.7 - 2023年4月9日
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 修复 API Key 模式下自定义 host 可能出现的报错
+- 修改参数页面优化
+- 内购页面增加 gpt4 和 gpt3.5-turbo 的价格对比
+- 优化其他细节
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+### 0.5.5 - 2023年4月7日
 
-<br>
+- 重磅更新：直接免 API Key 的 gpt-4 8k/32k 模型。现在你不需要 API Key 也可以顺滑使用 GPT4 啦！
+- 修复 API Key 模式下报 "Empty Host" 的问题
+- 支持每条对话 Token 消耗的 iCloud 同步（需开启高级版）
+
+### 0.5.0 - 2023年4月7日
+
+- 重磅更新：直接免 API Key 的 gpt-4 8k/32k 模型。现在你不需要 API Key 也可以顺滑使用 GPT4 啦！
+
+### 0.4.1 - 2023年4月6日
+
+- 修复回复内容丢字的问题
+
+### 0.4.0 - 2023年4月5日
+
+- Hello, Raycast！
+- Charming 现已接入 Raycast Extension，现在就可以体验更极客的聊天方式 https://www.raycast.com/trizone/charming-chatgpt
+
+### 0.3.7 - 2023年4月3日
+
+- 广场现在支持分类啦
+
+### 0.3.6 - 2023年4月2日
+
+- Minor bug fixed
+
+### 0.3.5 - 2023年4月2日
+
+- 对话列表支持显示图片、保存图片
+- Mac 输入框支持换行
+- Mac 对话支持右键删除
+- 内购页面交互优化
+- 修复 iCloud 同步问题（高级版）
+- 修复订阅同步问题（高级版）
+- 支持自动朗读回复内容（高级版）
+- 导入 .gpt 文件页面优化（高级版）
+
+### 0.3.1 - 2023年4月1日
+
+- 记忆上次选中的语音包
+- 优化代码高亮
+- 稳定性优化
+
+### 0.3.0 - 2023年3月30日
+
+- 支持回复展示表格等更多富文本
+
+- 支持包月流量
+
+### 0.2.6 - 2023年3月30日
+
+- 修复 Mac 上代码块无法显示完全的问题
+- 支持代码高亮
+- 支持 .gpt 文件使用 Charming 打开
+- 支持 .gpt 文件拖拽导入 Mac
+- 修复 Mac 偶现卡死问题
+
+### 0.2.5 - 2023年3月28日
+
+- 优化 Token 消耗
+- 优化语音聊天体验（需要开启高级版）
+- 支持重复朗读回复
+- 修复bug
+
+### 0.2.4 - 2023年3月27日
+
+- 新增新手指南，可以在设置页面看到入口
+
+### 0.2.3 - 2023年3月26日
+
+- 大幅优化对话列表富文本滑动性能，现在再复杂的内容也不会卡顿了
+- 其他细节优化
+
+### 0.2.2 - 2023年3月25日
+
+- 新增 Siri 支持多轮对话
+
+### 0.2.1 - 2023年3月24日
+
+- 新增独创的常用命令功能，大幅提升工作效率
+
+### 0.2.0 - 2023年3月23日
+
+- 支持免 API Key 的无翻墙访问模式
+- 支持语音对话
+- 支持多端设备 iCloud 同步
+- 支持本地计算 Token 消耗
+- 支持导出对话，对方导入后可继续聊天
+- 大量细节bug修复
+
+### 0.1.5 - 2023年3月21日
+
+- 全面升级！支持免 API Key 访问
