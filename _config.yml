@@ -69,7 +69,7 @@ features                                  :
     fontawesome_icon_name                 : link
 
   - title                                 : Raycast
-    description                           : 全网最快和 Raycast 打通的 GPT 客户端，Mac 上随叫随到 https://www.raycast.com/KittenYang/charming-chatgpt
+    description                           : 全网最快与 Raycast 打通的 GPT 客户端，\nMac 上随叫随到\n https://www.raycast.com/KittenYang/charming-chatgpt
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
