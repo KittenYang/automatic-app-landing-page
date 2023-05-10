@@ -6,6 +6,10 @@ include_in_header: false
 
 # 版本记录
 
+### 0.8.1 - 2023年5月11日
+
+- Mac 版本支持 Sparkle 更新，后续都可以在 https://charming.chat/ 下载
+
 ### 0.8.0 - 2023年5月1日
 
 - 多设备间的 Token 同步现在更稳定了
