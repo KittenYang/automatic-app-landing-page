@@ -8,7 +8,7 @@ include_in_header: false
 
 ### 0.8.1 - 2023年5月11日
 
-- Mac 版本支持 Sparkle 更新，后续都可以在 https://charming.chat/ 下载
+- Mac 版本支持 Sparkle 更新，后续都可以在 [https://charming.chat/](https://charming.chat/) 下载
 
 ### 0.8.0 - 2023年5月1日
 
