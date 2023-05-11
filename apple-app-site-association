@@ -1,28 +1,30 @@
 {
-    "appclips": {
-      "apps": [
+  "appclips":{
+     "apps":[
         "R78WMUBTG5.com.kittenyang.Charming.appclip"
-      ]
-    },
-    "applinks": {
-      "apps": [],
-      "details": [
+     ]
+  },
+  "applinks":{
+     "apps":[
+        
+     ],
+     "details":[
         {
-          "appID": "R78WMUBTG5.com.kittenyang.Charming",
-          "paths": [
-            "*"
-          ]
+           "appID":"R78WMUBTG5.com.kittenyang.Charming",
+           "paths":[
+              "*"
+           ]
         }
-      ]
-    },
-    "webcredentials": {
-      "apps": [
+     ]
+  },
+  "webcredentials":{
+     "apps":[
         "R78WMUBTG5.com.kittenyang.Charming"
-      ]
-    },
-    "activitycontinuation": {
-      "apps": [
+     ]
+  },
+  "activitycontinuation":{
+     "apps":[
         "R78WMUBTG5.com.kittenyang.Charming"
-      ]
-    }
+     ]
   }
+}
